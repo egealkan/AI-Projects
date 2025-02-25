@@ -1,0 +1,12 @@
+names:
+  0: car
+  1: wheel
+  2: road
+  3: barrier
+  4: checkpoint
+  5: finish_line
+  6: tree
+  7: building
+path: C:\Users\Lenovo\Desktop\trackmania\dataset
+train: train\images
+val: val\images

@@ -1,0 +1,15 @@
+{
+  "name": "trackmania-detector",
+  "version": "1.0.0",
+  "description": "Object detection for Trackmania screenshots",
+  "type": "module",
+  "scripts": {
+    "train": "node src/train.js",
+    "detect": "node src/detect.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.10.0",
+    "canvas": "^2.11.2",
+    "fs-extra": "^11.1.1"
+  }
+}
