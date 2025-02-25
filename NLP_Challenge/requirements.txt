@@ -1,0 +1,11 @@
+streamlit
+crewai
+langchain
+chromadb
+sentence-transformers
+pypdf
+unstructured
+python-dotenv
+requests
+
+
