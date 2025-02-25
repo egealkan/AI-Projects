@@ -1,0 +1,34 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "How are you feeling today?",
+        "context": "Opening question to understand visitor's emotional state",
+        "follow_up_topics": ["weather", "day's activities", "mood influences"]
+      },
+      {
+        "id": 2,
+        "question": "What brings you to this part of the city today?",
+        "context": "Understanding visitor's purpose and connection to location",
+        "follow_up_topics": ["local attractions", "regular visits", "discoveries"]
+      },
+      {
+        "id": 3,
+        "question": "Do you often spend time in parks and public spaces like this?",
+        "context": "Exploring visitor's relationship with public spaces",
+        "follow_up_topics": ["favorite spots", "outdoor activities", "community connection"]
+      },
+      {
+        "id": 4,
+        "question": "What's the most interesting thing you've observed while sitting here?",
+        "context": "Encouraging storytelling and personal observations",
+        "follow_up_topics": ["people watching", "nature observations", "memorable moments"]
+      },
+      {
+        "id": 5,
+        "question": "How do you think this area has changed over the years?",
+        "context": "Gathering historical perspectives and personal memories",
+        "follow_up_topics": ["community changes", "development", "memories"]
+      }
+    ]
+  }

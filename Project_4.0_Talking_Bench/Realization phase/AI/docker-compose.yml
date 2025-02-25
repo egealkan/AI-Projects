@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  ai_service:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - BENCH_API_URL=${BENCH_API_URL}
+    volumes:
+      - ./src:/app/src
+    restart: unless-stopped

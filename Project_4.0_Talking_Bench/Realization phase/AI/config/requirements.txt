@@ -1,0 +1,22 @@
+# General dependencies
+pydantic
+requests
+numpy
+sounddevice
+soundfile
+torch
+transformers
+TTS
+google-generativeai
+sentence-transformers
+qdrant_client
+crewai
+streamlit
+fastapi
+uvicorn
+python-multipart
+psycopg2-binary
+groq
+webrtcvad
+vosk
+pydub
