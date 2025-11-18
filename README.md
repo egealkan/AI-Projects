@@ -1,13 +1,13 @@
 # Academic Projects Portfolio
 
-This repository contains a collection of AI and software engineering projects completed during my studies, demonstrating skills in machine learning, cloud computing, computer vision, natural language processing, and full-stack development [web:2][web:7][web:8].
+This repository contains a collection of AI and software engineering projects completed during my studies, demonstrating skills in machine learning, cloud computing, computer vision, natural language processing, and full-stack development.
 
 ## 📁 Projects Overview
 
 ### AI_Practice_and_Math
 **Neural Networks from Scratch**
 
-A comprehensive exploration of neural network fundamentals implemented from scratch in Jupyter notebooks. This project demonstrates deep understanding of core machine learning concepts through manual implementation [web:7][web:8].
+A comprehensive exploration of neural network fundamentals implemented from scratch in Jupyter notebooks. This project demonstrates deep understanding of core machine learning concepts through manual implementation.
 
 **Key Features:**
 - Custom implementation of various activation functions (ReLU, Sigmoid, Tanh, etc.)
@@ -16,14 +16,14 @@ A comprehensive exploration of neural network fundamentals implemented from scra
 - Detailed testing and validation of each neural network component
 - Educational notebooks documenting the mathematical foundations
 
-**Technologies:** Python, NumPy, Jupyter Notebooks, Mathematics [web:7]
+**Technologies:** Python, NumPy, Jupyter Notebooks, Mathematics 
 
 ---
 
 ### Cloud_AI
 **Cloud-Based AI Data Pipeline** (Group Project)
 
-A collaborative project focused on building end-to-end machine learning workflows using AWS cloud services. The project involved data preprocessing, model training, and deployment using enterprise cloud infrastructure [web:7][web:8].
+A collaborative project focused on building end-to-end machine learning workflows using AWS cloud services. The project involved data preprocessing, model training, and deployment using enterprise cloud infrastructure.
 
 **Key Features:**
 - Data cleaning and preparation pipelines for AI/ML workloads
@@ -32,14 +32,14 @@ A collaborative project focused on building end-to-end machine learning workflow
 - Completion of practical AI assignments using AWS services
 - Team-based development and collaboration practices
 
-**Technologies:** AWS SageMaker, Python, Cloud Services, Data Processing [web:7]
+**Technologies:** AWS SageMaker, Python, Cloud Services, Data Processing
 
 ---
 
 ### Computer_Vision_Challenge
 **Autonomous Racing & Object Detection in TrackMania** (Group Project)
 
-An innovative computer vision project combining autonomous driving and real-time object detection in the racing game TrackMania. The project demonstrates practical application of computer vision techniques in a dynamic gaming environment [web:7][web:8].
+An innovative computer vision project combining autonomous driving and real-time object detection in the racing game TrackMania. The project demonstrates practical application of computer vision techniques in a dynamic gaming environment.
 
 **Key Features:**
 - Self-driving car implementation using computer vision algorithms
@@ -48,14 +48,14 @@ An innovative computer vision project combining autonomous driving and real-time
 - Model training for recognizing various in-game objects
 - Performance optimization for real-time processing
 
-**Technologies:** YOLO, Python, Computer Vision, OpenCV, Object Detection [web:7]
+**Technologies:** YOLO, Python, Computer Vision, OpenCV, Object Detection
 
 ---
 
 ### NLP_Challenge
 **Multi-Agent Conversational AI System** (Group Project)
 
-A sophisticated chatbot system leveraging multiple AI agents to provide diverse functionalities including web search, quiz generation, and interactive conversations. The system incorporates modern NLP techniques and voice interface capabilities [web:7][web:8].
+A sophisticated chatbot system leveraging multiple AI agents to provide diverse functionalities including web search, quiz generation, and interactive conversations. The system incorporates modern NLP techniques and voice interface capabilities.
 
 **Key Features:**
 - Multi-agent architecture for specialized task handling
@@ -66,14 +66,14 @@ A sophisticated chatbot system leveraging multiple AI agents to provide diverse 
 - Integration with HuggingFace models and Groq API
 - Extensible design supporting additional features and capabilities
 
-**Technologies:** Python, HuggingFace, Groq API, Vector Stores, NLP, Speech-to-Text, Text-to-Speech [web:7]
+**Technologies:** Python, HuggingFace, Groq API, Vector Stores, NLP, Speech-to-Text, Text-to-Speech
 
 ---
 
 ### Project_4.0_Talking_Bench
 **Smart Interactive Public Bench System** (Semester-Long Client Project)
 
-A comprehensive semester project developed for a real client, featuring an interactive talking bench that responds to user queries. This interdisciplinary project brought together students from multiple IT specializations to deliver a complete IoT solution [web:7][web:8].
+A comprehensive semester project developed for a real client, featuring an interactive talking bench that responds to user queries. This interdisciplinary project brought together students from multiple IT specializations to deliver a complete IoT solution.
 
 **Key Features:**
 - Voice-enabled user interaction system (Speech-to-Text and Text-to-Speech)
@@ -94,7 +94,7 @@ A comprehensive semester project developed for a real client, featuring an inter
 - AI Engineers: Voice processing and intelligent response systems
 - Cloud/Security Engineers: Azure deployment and security implementation
 
-**Technologies:** Python, Azure Cloud Services, Speech Recognition, Natural Language Processing, REST APIs, Full-Stack Development [web:7]
+**Technologies:** Python, Azure Cloud Services, Speech Recognition, Natural Language Processing, REST APIs, Full-Stack Development
 
 ---
 
@@ -110,5 +110,5 @@ A comprehensive semester project developed for a real client, featuring an inter
 
 ## 📚 About
 
-These projects were completed as part of my academic coursework, showcasing both individual technical depth and collaborative problem-solving abilities. Each project demonstrates practical application of theoretical knowledge in real-world scenarios, from low-level neural network implementation to enterprise-scale cloud deployments [web:8][web:9].
+These projects were completed as part of my academic coursework, showcasing both individual technical depth and collaborative problem-solving abilities. Each project demonstrates practical application of theoretical knowledge in real-world scenarios, from low-level neural network implementation to enterprise-scale cloud deployments.
 
