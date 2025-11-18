@@ -53,7 +53,7 @@ An innovative computer vision project combining autonomous driving and real-time
 ---
 
 ### NLP_Challenge
-**Multi-Agent Conversational AI System** (Group Project)
+**Multi-Agent Conversational AI System**
 
 A sophisticated chatbot system leveraging multiple AI agents to provide diverse functionalities including web search, quiz generation, and interactive conversations. The system incorporates modern NLP techniques and voice interface capabilities.
 
@@ -71,7 +71,7 @@ A sophisticated chatbot system leveraging multiple AI agents to provide diverse 
 ---
 
 ### Project_4.0_Talking_Bench
-**Smart Interactive Public Bench System** (Semester-Long Client Project)
+**Smart Interactive Public Bench System** (Semester-Long Client Project with Research and Realization Phases)
 
 A comprehensive semester project developed for a real client, featuring an interactive talking bench that responds to user queries. This interdisciplinary project brought together students from multiple IT specializations to deliver a complete IoT solution.
 
